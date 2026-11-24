@@ -1,0 +1,7 @@
+ROHAN VERMA
+Email: rohan.v@example.com | Bengaluru, India
+Summary: Business Intelligence Developer with 3 years of experience in reporting and database querying.
+Skills: SQL, Power BI, Excel, Python, Pandas, Tableau.
+Experience:
+- BI Developer (3 years): Designed complex SQL stored procedures and Power BI dashboards for sales forecasting. Used Python and Pandas for data cleaning.
+Education: B.Sc in Statistics (2023)

@@ -1,0 +1,7 @@
+Rank,Candidate Name,File Name,Final Score (%),Status,TF-IDF Match (%),Must-Have Match (%),Experience (Yrs),Matched Must-Have Skills,Missing Must-Have Gaps,Bonus Skills
+1,Arjun Sharma,candidate_01_arjun_sharma.txt,68.84,SHORTLISTED,28.35,100.0,2.5,"git, pandas, python, scikit-learn, sql",None,"fastapi, nlp, numpy, power bi, streamlit, tf-idf"
+2,Ananya Deshmukh,candidate_06_ananya_deshmukh.docx,62.69,HOLD / REVIEW,19.22,100.0,1.5,"git, pandas, python, scikit-learn, sql",None,"nlp, regex, streamlit, tf-idf"
+3,Sneha Kulkarni,candidate_04_sneha_kulkarni.txt,56.99,HOLD / REVIEW,11.22,100.0,1.0,"git, pandas, python, scikit-learn, sql",None,"numpy, streamlit"
+4,Priya Patel,candidate_02_priya_patel.txt,53.2,HOLD / REVIEW,12.38,80.0,2.0,"git, pandas, python, scikit-learn",sql,"docker, fastapi, nlp, numpy, regex"
+5,Rohan Verma,candidate_03_rohan_verma.txt,40.17,REJECTED,12.31,60.0,3.0,"pandas, python, sql","git, scikit-learn",power bi
+6,Vikram Singh,candidate_05_vikram_singh.txt,19.05,REJECTED,2.63,20.0,2.0,git,"pandas, python, scikit-learn, sql",None

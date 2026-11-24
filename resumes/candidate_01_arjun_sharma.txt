@@ -1,0 +1,8 @@
+ARJUN SHARMA
+Email: arjun.sharma@example.com | Phone: +91-9876543210 | Pune, India
+Summary: Data Analyst with 2.5 years of experience in Python, SQL, and NLP pipelines.
+Skills: Python, SQL, Pandas, NumPy, Scikit-learn, NLP, TF-IDF, Streamlit, FastAPI, Git, Power BI.
+Experience:
+- Data Analyst at FinTech Corp (2 years): Automated ETL workflows using Python and Pandas, reducing reporting time by 60%. Built customer ticket classifiers using Scikit-learn and TF-IDF.
+- Junior Analyst (0.5 years): Created SQL queries and Power BI executive dashboards.
+Education: B.Tech in Computer Engineering (2024)

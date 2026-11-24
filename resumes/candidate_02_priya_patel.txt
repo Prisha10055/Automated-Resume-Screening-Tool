@@ -1,0 +1,7 @@
+PRIYA PATEL
+Email: priya.patel@example.com | Mumbai, India
+Summary: Machine Learning Engineer with 2 years of experience building predictive analytics and REST APIs.
+Skills: Python, Pandas, NumPy, Scikit-learn, Git, FastAPI, Docker, Regex, NLP.
+Experience:
+- Associate ML Engineer (2 years): Developed document similarity engines and deployed FastAPI services inside Docker containers.
+Education: B.E. in Information Technology (2024)

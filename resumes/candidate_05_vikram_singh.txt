@@ -1,0 +1,7 @@
+VIKRAM SINGH
+Email: vikram.singh@example.com | Delhi, India
+Summary: Frontend Web Developer with 2 years of experience building responsive web interfaces.
+Skills: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Git, Figma.
+Experience:
+- Frontend Developer (2 years): Built e-commerce UI components in React and Next.js. Collaborated with backend teams using Git.
+Education: BCA (2024)

@@ -1,0 +1,7 @@
+SNEHA KULKARNI
+Email: sneha.k@example.com | Karad, India
+Summary: Final-year Engineering student with strong internship experience in Python automation and ML.
+Skills: Python, Pandas, NumPy, Scikit-learn, SQL, Git, Streamlit, Matplotlib.
+Experience:
+- Data Science Intern (1 year): Built a predictive maintenance model in Scikit-learn and presented results via Streamlit. Managed version control using Git.
+Education: B.Tech in Mechanical Engineering with Minor in AI (2026)

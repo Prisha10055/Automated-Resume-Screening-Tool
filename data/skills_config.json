@@ -1,0 +1,23 @@
+{
+    "job_title": "Junior Data & AI Analyst",
+    "min_experience_years": 1.0,
+    "shortlist_threshold": 65.0,
+    "review_threshold": 45.0,
+    "must_have_skills": [
+        "python",
+        "sql",
+        "pandas",
+        "scikit-learn",
+        "git"
+    ],
+    "nice_to_have_skills": [
+        "nlp",
+        "tf-idf",
+        "fastapi",
+        "streamlit",
+        "power bi",
+        "docker",
+        "numpy",
+        "regex"
+    ]
+}
